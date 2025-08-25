@@ -1,0 +1,14 @@
+{
+  "name": "Example Freelancer",
+  "skills": ["Web Development", "UI/UX Design"],
+  "website": "https://example.com",
+  "location": "Remote",
+  "contact": "freelancer@example.com"
+}
+{
+  "name": "Kevin Njeri",
+  "skills": ["Web Development", "UI/UX Design"],
+  "website": "https://kevinportfolio77.netlify.app/",
+  "location": "Kenya",
+  "contact": "kevinnjeri77@gmail.com"
+}
